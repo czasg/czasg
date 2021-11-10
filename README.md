@@ -9,25 +9,37 @@
     </a>
 </p>
 
-<p align="center">2019</p>
+<p align="center">2020 simple summary</p>
 
 ```text
-|————————|————————|
-| Python | Scrapy |
-|————————|————————|
+First exposure to container technology.
 
-|—————|
-| Vue |
-|—————|
+Go: Iris
+Container: K8s、Docker
+Python: Flask、Tornado
 ```
 
-<p align="center">2018</p>
+<p align="center">2019 simple summary</p>
 
 ```text
-|————————|——————|——————|
-| Python | xlrd | xlwt |
-|————————|——————|——————|
+Keen on Python and working on web crawlers, seeing the charm of the Internet. it taught myself the web and machine learning.
+At the same time, I had some open source project of my own.
+
+Python: Scrapy、Selenium、Flask、Django、Tensorflow
+Javascript: Vue
 ```
+
+<p align="center">2018 simple summary</p>
+
+```text
+Graduated and nothing. Learned how to use Python. Working mainly on files and organizing reports...
+
+Python: xlrd、xlwt、csv、pandas、matplotlib
+```
+
+
+
+
 
 <!--
 **czasg/czasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
