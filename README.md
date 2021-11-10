@@ -9,6 +9,8 @@
     </a>
 </p>
 
+<!--
+
 <p align="center">2020 simple summary</p>
 
 ```text
@@ -37,6 +39,7 @@ Graduated and nothing. Learned how to use Python. Working mainly on files and or
 Python: xlrd、xlwt、csv、pandas、matplotlib
 ```
 
+-->
 
 
 
