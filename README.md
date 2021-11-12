@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b>Hello, czasg's world 👋</b>
+    <b>Hello, Czasg's World 👋</b>
   </h1>
 </p>
 <p align="center">
