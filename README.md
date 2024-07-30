@@ -9,6 +9,10 @@
     </a>
 </p>
 
+### 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=czasg&theme=react-dark)](https://github.com/czasg/github-readme-activity-graph)
+
 
 
 
